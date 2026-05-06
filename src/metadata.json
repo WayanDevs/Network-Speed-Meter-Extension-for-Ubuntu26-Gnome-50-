@@ -1,0 +1,7 @@
+{
+    "uuid": "network-speed-meter@yan.com",
+    "name": "Network Speed Meter",
+    "description": "Real-time network speed indicator in the GNOME Top Bar.",
+    "shell-version": ["48", "50"],
+    "url": ""
+}
