@@ -1,6 +1,12 @@
 # Network Speed Meter Extension
 
+
+
+
 <img width="299" height="29" alt="Screenshot From 2026-05-07 00-26-05" src="https://github.com/user-attachments/assets/4308246d-d088-4be0-9993-b332d3e5585a" />
+
+
+
 
 **UUID:** `network-speed-meter@yan.com`
 
